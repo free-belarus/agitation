@@ -9,8 +9,8 @@ Telegram — самое безопасное приложение для общ�
 
 # Как установить приложение?
 
-Зайдите на сайт telegram.org, там можно скачать версии для Android, iPhone и ПК.
-Либо найдите его в Play Маркет или App Store. 
+Зайдите на сайт [telegram.org](https://telegram.org), там можно скачать версии для [Android](https://telegram.org/dl/android), [iPhone](https://telegram.org/dl/ios) и [ПК](https://desktop.telegram.org/).
+Либо найдите его в [Play Маркет](https://play.google.com/store/apps/details?id=org.telegram.messenger) или [App Store](https://apps.apple.com/us/app/telegram-messenger/id686449807).
 
 # Что дальше?
 
